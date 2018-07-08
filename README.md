@@ -1,4 +1,4 @@
-Restore password component for React ОЫ
+Restore password component for React JS
 ## Installation instructions:
 
 1. Clone from GitHub
